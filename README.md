@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adil Gillani</h1>
-<h3 align="center">A passionate Flutter Mobile App Development from Pakistan</h3>
+<h3 align="center">A passionate Flutter Mobile App Development from Pakistan, Lahore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilgillani&label=Profile%20views&color=0e75b6&style=flat" alt="adilgillani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adilgillani" target="blank"><img src="https://img.shields.io/twitter/follow/adilgillani?logo=twitter&style=for-the-badge" alt="adilgillani" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Dart.**
-
+- 🎓 **BS Software Engineer** from **Virtual University Lahore.**
+- 💻 Cross Platform Mobile App Developer.
 - 💬 Ask me about **Flutter,Dart.**
-
 - 📫 How to reach me **+923228499019**
-
 - ⚡ Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
