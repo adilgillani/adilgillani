@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/adilgillani" target="blank"><img src="https://img.shields.io/twitter/follow/adilgillani?logo=twitter&style=for-the-badge" alt="adilgillani" /></a> </p>
 <p align="right"> <img src="https://github.com/adilgillani/adilgillani/blob/main/101820-mobile-app-showcase.gif" alt="adilgillani"style="width:400px;height:400px;"> </p>
 
-- 🎓 **BS Software Engineer** from **Virtual University Lahore.**
+- 🎓 **BS Software Engineer** from **Virtual University Pakistan, Lahore.**
 - I ❤️ TypeScript, Node.js, WordPress, and Flutter
 - 💻 Cross Platform Mobile App Developer.
 - 🌱 I’m currently learning **Flutter,Dart and WordPress.**
