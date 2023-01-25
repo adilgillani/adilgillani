@@ -17,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adilgillani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilgillani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adil gillani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil gillani" height="30" width="40" /></a>
-<a href="https://fb.com/adil gillani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adil gillani" height="30" width="40" /></a>
-<a href="https://instagram.com/gillani4137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gillani4137" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adil gillani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adil gillani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adil-gillani-5821aa1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil gillani" height="30" width="40" /></a>
+<a href="https://web.facebook.com/adil.gillani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adil gillani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gillani4137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gillani4137" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1ucumUNGGk6Bd_cWVxkaaA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adil gillani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
