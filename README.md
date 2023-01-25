@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Adil Gillani</h1>
 <h3 align="center">A passionate Flutter Mobile App Development from Pakistan, Lahore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilgillani&label=Profile%20views&color=0e75b6&style=flat" alt="adilgillani" /> </p>
 <p align="left"> <a href="https://twitter.com/adilgillani" target="blank"><img src="https://img.shields.io/twitter/follow/adilgillani?logo=twitter&style=for-the-badge" alt="adilgillani" /></a> </p>
-<p align="right"> <img src="https://github.com/adilgillani/adilgillani/blob/main/101820-mobile-app-showcase.gif" alt="adilgillani"style="width:300px;height:300px;/> </p>
+<p align="right"> <img src="https://github.com/adilgillani/adilgillani/blob/main/101820-mobile-app-showcase.gif" alt="adilgillani"style="width:400px;height:400px;"> </p>
 
 - 🎓 **BS Software Engineer** from **Virtual University Lahore.**
 - I ❤️ TypeScript, Node.js, WordPress, and Flutter
