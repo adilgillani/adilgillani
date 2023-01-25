@@ -6,11 +6,14 @@
 <p align="left"> <a href="https://twitter.com/adilgillani" target="blank"><img src="https://img.shields.io/twitter/follow/adilgillani?logo=twitter&style=for-the-badge" alt="adilgillani" /></a> </p>
 
 - 🎓 **BS Software Engineer** from **Virtual University Lahore.**
+- I ❤️ TypeScript, Node.js, WordPress, and Flutter
 - 💻 Cross Platform Mobile App Developer.
+- 🌱 I’m currently learning **Flutter,Dart and WordPress.**
+- 🌐 Currently working as a Flutter Developer at Nitroxis Inc.
+- 👨‍💻 Working full-time at as Frontend Developer (using Flutter) since 2021.
 - 💬 Ask me about **Flutter,Dart.**
-- 🌱 I’m currently learning **Flutter,Dart.**
-- 📫 How to reach me **+923228499019**
-- ⚡ Fun fact **I am funny.**
+- 📫 How to reach me **(facebook|github|twitter|youtube|instagram)/ +923228499019**
+- ⚡ Fun fact Enthusiastic Nerd; Love to talk about tech stuff for hours. and also **Yes, I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
