@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter Mobile App Development from Pakistan, Lahore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilgillani&label=Profile%20views&color=0e75b6&style=flat" alt="adilgillani" /> </p>
-
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 <p align="left"> <a href="https://twitter.com/adilgillani" target="blank"><img src="https://img.shields.io/twitter/follow/adilgillani?logo=twitter&style=for-the-badge" alt="adilgillani" /></a> </p>
 
 - 🎓 **BS Software Engineer** from **Virtual University Lahore.**
